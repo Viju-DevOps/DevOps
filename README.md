@@ -1,7 +1,7 @@
 # Tasks for the Machine Test
 
 >[!NOTE]
->Before moving on, carefully follow the directions for each activity.
+>***Before moving on, carefully follow the directions for each activity.***
 
 
 1. Access the server using SSH to identify and resolve any connectivity issues
