@@ -28,6 +28,6 @@
 
 > Files to dockerize can be accessed [Here](Docker). Before dockerization, it is important to install the dependencies such as node. The command to install node is **npm install** and **npm install express** and the command to run the app **node app.js**.
 
-10. Design an architecture for hosting a Frontend application on AWS, considering robust security measures.
+7. Design an architecture for hosting a Frontend application on AWS, considering robust security measures.
     
 >This would test your ability to analyze requirements and design a solution. This reflects your problem-solving skills, which are crucial in real-world scenarios.
