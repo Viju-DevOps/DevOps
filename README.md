@@ -6,7 +6,7 @@
 
 1. Access the server using SSH to identify and resolve connectivity issues. 
    
- >Troubleshoot and resolve potential connectivity issues using SSH to access the server. Could you identify and address any issues hindering successful server access? Server IP, Username, and Password will be provided
+ >Troubleshoot and resolve potential connectivity issues using SSH to access the server. Could you identify and address any issues hindering successful server access? Server IP, Username, and Password will be provided.
 
 2. Determine the server's OS version, available disk space, memory usage, CPU details, and architecture.
 
@@ -26,7 +26,7 @@
    
 6. Create a Dockerfile to facilitate the execution of a JavaScript file and  access it through a web browser.
 
-> Files to dockerize can be accessed [Here](Docker) . Before dockerization it is important to install the dependencies such as node . The node version to install the packages is **V14.21.0** and the command to install node is **npm install**.
+> Files to dockerize can be accessed [Here](Docker). Before dockerization, it is important to install the dependencies such as node. The command to install node is **npm install** and **npm install express** and the command to run the app **node app.js**.
 
 10. Design an architecture for hosting a Frontend application on AWS, considering robust security measures.
     
