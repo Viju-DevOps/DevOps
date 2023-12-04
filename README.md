@@ -16,10 +16,12 @@
    
 >Identify and resolve issues with the Nginx website by troubleshooting and debugging potential issues in its configuration and performance. You should be able to recall the website by IP as well as by providing /web. Example: 192.168.0.56/web
 
-6. Complete the shell script by incorporating steps to upload a file to AWS S3 and verifying its presence in the designated bucket.
+5. Complete the shell script by incorporating steps to upload a file to AWS S3 and verifying its presence in the designated bucket.
 
-7. Develop a Terraform script to create an EC2 instance and display its public IP address as part of the Terraform output.
+>[Click Here](ShellScript/hello.sh) to visit the shell script . Debug the script and upload the file to the S3 bucket.
 
-8. Create a Dockerfile to facilitate the execution of a JavaScript file and  access it through a web browser.
+8. Develop a Terraform script to create an EC2 instance and display its public IP address as part of the Terraform output.
 
-9. Design an architecture for hosting a Frontend application on AWS, considering robust security measures
+9. Create a Dockerfile to facilitate the execution of a JavaScript file and  access it through a web browser.
+
+10. Design an architecture for hosting a Frontend application on AWS, considering robust security measures
