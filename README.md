@@ -18,7 +18,7 @@
 
 4. Complete the shell script by incorporating steps to upload a file to AWS S3 and verifying its presence in the designated bucket.
 
- >[Click Here](ShellScript/hello.sh) to visit the shell script . Debug the script and upload the file to the S3 bucket.
+ >[Click Here](ShellScript/hello.sh) to visit the shell script . Complete the script by add the step to upload the backup file to the S3 bucket **"devops-db--backup"**.
 
 5. Develop a Terraform script to create an EC2 instance and display its public IP address as part of the Terraform output.
 
