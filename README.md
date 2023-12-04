@@ -4,10 +4,11 @@
 >**Before moving on, carefully follow the directions for each activity.**
 
 
-1. Access the server using SSH to identify and resolve any connectivity issues
->Troubleshoot and resolve potential connectivity issues by utilizing SSH to access the server. Identify and address any issues hindering successful server access.
+1. Access the server using SSH to identify and resolve any connectivity issues. 
+   
+>Troubleshoot and resolve potential connectivity issues by utilizing SSH to access the server. Identify and address any issues hindering successful server access.'#00000Server IP , Username and Password will be provided.'
 
-3. Determine the server's OS version, available disk space, memory usage, CPU details, and architecture
+2. Determine the server's OS version, available disk space, memory usage, CPU details, and architecture
 
 4. Troubleshoot and debug issues related to the Nginx website.
 
