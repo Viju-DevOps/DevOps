@@ -26,6 +26,8 @@
    
 6. Create a Dockerfile to facilitate the execution of a JavaScript file and  access it through a web browser.
 
-   > Files to dockerize can be accessed [HERE](Docker)
+> Files to dockerize can be accessed [HERE](Docker)
 
-10. Design an architecture for hosting a Frontend application on AWS, considering robust security measures
+10. Design an architecture for hosting a Frontend application on AWS, considering robust security measures.
+    
+>This would test your ability to analyze requirements and design a solution. This reflects your problem-solving skills, which are crucial in real-world scenarios.
