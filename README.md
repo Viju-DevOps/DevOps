@@ -26,7 +26,7 @@
    
 6. Create a Dockerfile to facilitate the execution of a JavaScript file and  access it through a web browser.
 
-> Files to dockerize can be accessed [Here](Docker). Before dockerization, it is important to install the dependencies such as node. The command to install node is **npm install** and **npm install express** and the command to run the app **node app.js**.
+> Files to dockerize can be accessed [Here](Docker). Before dockerization, it is important to install the dependencies such as node. The command to install node is **npm install express** and the command to run the app **node app.js**.
 
 7. Design an architecture for hosting a Frontend application on AWS, considering robust security measures.
     
