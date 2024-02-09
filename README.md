@@ -16,9 +16,9 @@
    
  >Identify and resolve issues with the Nginx website by troubleshooting and debugging potential issues in its configuration and performance. You should be able to recall the website by IP as well as by providing /web. Example: 192.168.0.56/web
 
-4. Create a shell script that backups the MySQL database and includes steps for uploading a file to AWS S3 and validating its presence in the appropriate bucket.
+4. Create a shell script.
 
- >[Click Here](ShellScript/hello.sh) to visit the shell script to get the database details. Complete the script by adding the step to backup the DB and upload the backup file to the S3 bucket **"devops--db--backup"**.
+ >Create a bash script to generate 10 files each named, for example: TA-Manager-1.txt to TA-Manager-10.txt and TA-employee-1.txt to TA-employee-10.txt. Sort the files listed under the directory, then move the files ending with "Manager" to a separate directory, and display the remaining files that were not copied from the directory.
 
 5. Develop a Terraform script to creates an S3 bucket with versioning, object-locking, and the attach bucket policy enabled and display its bucket_domain_name as part of the Terraform output.
 
