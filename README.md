@@ -8,9 +8,9 @@
    
  >Troubleshoot and resolve potential connectivity issues using SSH to access the server. Could you identify and address any issues hindering successful server access? Server IP, Username, and Password will be provided.
 
-2. Determine the server's OS version, available disk space, memory usage, CPU details, and architecture.
+2. Determine the server's OS version, available disk space, memory usage, CPU details, architecture and find the process ID of a service running or port 80
 
- >Retrieve information about the server's operating system version, disk space availability, memory usage, and CPU details.  
+ >Retrieve information about the server's operating system version, disk space availability, memory usage, and CPU details, also find the process ID of a service running or port 80
 
 3. Troubleshoot and debug issues related to the Nginx website.
    
@@ -20,9 +20,9 @@
 
  >[Click Here](ShellScript/hello.sh) to visit the shell script to get the database details. Complete the script by adding the step to backup the DB and upload the backup file to the S3 bucket **"devops--db--backup"**.
 
-5. Develop a Terraform script to create an EC2 instance and display its public IP address as part of the Terraform output.
+5. Develop a Terraform script to creates an S3 bucket with versioning, object-locking, and the attach bucket policy enabled and display its bucket_domain_name as part of the Terraform output.
 
- >Create a Terraform script that establishes an EC2 instance and includes the public IP address as part of the output.
+ >Create a Terraform script that creates an S3 bucket with versioning, object-locking, and the attach bucket policy enabled, and includes the bucket_domain_name in the output.
    
 6. Create a Dockerfile to facilitate the execution of a JavaScript file and  access it through a web browser.
 
