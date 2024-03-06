@@ -30,4 +30,4 @@
 
 7. Design and develop a declarative Jenkins pipeline to build the above docker image  and deploy it as a container in the given VM.
     
-> ( DockerHUb login - Username: tadevops24 , Password: TaDevOps@$24 ); ( Repository : tadevops24/devops ) ; ( Jenkins URL: ) ; (Jenkins username: ) ; (Jenkins password: )
+> ( DockerHUb login - Username: tadevops24 , Password: TaDevOps@$24 ); ( Repository : tadevops24/devops ) ; ( Jenkins URL: http://3.231.101.223:8080/ ) ; (Jenkins username: tadevops24 ) ; (Jenkins password: TaDevOps@$24 )
